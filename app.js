@@ -86,3 +86,14 @@
 //     obj[val] = val.length
 // }   
 // console.log(obj);
+
+
+// 7. O'rta arfimetigini topish
+
+// let arr = [1,2,3,4,5]
+// let total = 0
+// for (let i = 0; i < arr.length; i++) {
+//     total += arr[i]
+// }
+// total /= arr.length
+// console.log(total);
